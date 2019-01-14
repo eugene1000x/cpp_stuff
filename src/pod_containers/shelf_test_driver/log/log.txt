@@ -1,0 +1,132 @@
+
+shelf_test_driver>echo off 
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF0.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF1.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF2.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF3.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF4.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF5.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF6.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF7.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF8.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF9.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF10.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF11.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF12.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF13.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF14.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF15.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF16.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF17.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF18.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF19.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF20.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF21.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF22.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF23.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF24.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
+�����஢��� 䠩���:         1.
+�ࠢ����� 䠩��� WORKDIR/shelf.rez � TEST_SUITES/LIO_TESTS/SHELF25.REZ
+FC: ࠧ���� �� �������
+
+�����஢��� 䠩���:         1.
